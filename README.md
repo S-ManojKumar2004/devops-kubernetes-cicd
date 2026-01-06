@@ -59,7 +59,8 @@ kubectl get svc
 minikube service nginx-service
 
 
-http://<minikube-ip>:<nodeport>
+http://<minikube-ip>:<nodeport>      http://192.168.49.2:30007
+
 
 
 Hello World
