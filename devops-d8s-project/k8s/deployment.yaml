@@ -14,8 +14,8 @@ spec:
     spec:
       containers:
       - name: hello-container
-        image: manoj-hello-nginx
-        imagePullPolicy: Never   
+        image: manojkumar2026/hello-nginx:v1
+        imagePullPolicy: Never
         ports:
         - containerPort: 80
 
