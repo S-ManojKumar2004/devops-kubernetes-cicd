@@ -1,4 +1,4 @@
-DevOps CI/CD Project – Docker, Kubernetes & Cloud
+## DevOps CI/CD Project – Docker, Kubernetes & Cloud
 
 This project demonstrates an **end-to-end DevOps CI/CD pipeline** using  
 **Docker, Kubernetes (Minikube), AWS, Terraform, Helm, Prometheus, Grafana, and GitHub Actions**.
