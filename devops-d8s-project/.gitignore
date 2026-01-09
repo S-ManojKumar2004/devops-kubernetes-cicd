@@ -1,0 +1,37 @@
+# Ignore home/system files
+.bash*
+.cache/
+.config/
+.docker/
+.gitconfig
+.gnupg/
+.kube/
+.local/
+.minikube/
+.npm/
+.ssh/
+.terraform.d/
+
+# OS / temp
+*.log
+*.tmp
+*.swp
+
+# Python
+venv/
+__pycache__/
+
+# Node
+node_modules/
+
+# Personal folders
+Downloads/
+Music/
+Pictures/
+Videos/
+
+# Terraform
+terraform.tfstate*
+
+# Ignore everything one level up
+../*
