@@ -149,7 +149,23 @@ git push origin main
        AWS EKS , Load Balancer
        Helm templates 
        Prometheus,Grafana    ***
-       
+
+
+##   AWS --         
+
+         1. Project Overview
+         2. AWS Account & Region
+         3. Networking (VPC, Subnets, NAT)
+         4. EKS Cluster
+         5. Node Groups & EC2
+         6. IAM & Security
+         7. KMS Encryption
+         8. Kubernetes Workloads
+         9. Application Access
+         10. CI/CD Pipeline
+         11. Security Scan (Trivy)
+         12. Final Summary
+
                                         
        
 
