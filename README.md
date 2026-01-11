@@ -78,7 +78,7 @@ This project was created to gain **hands-on, real-world DevOps experience** in:
 
 ```
 devops-kubernetes-cicd/
-├── devops-k8s-project/
+├── devops-d8s-project/
 │   ├── Dockerfile                 # Nginx-based Docker image
 │   ├── index.html                 # Sample HTML web application
 │   └── k8s/
